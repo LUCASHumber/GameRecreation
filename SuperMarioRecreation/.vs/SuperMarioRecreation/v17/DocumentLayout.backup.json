@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|c:\\users\\mrmys\\onedrive\\documents\\github\\gamerecreation\\supermariorecreation\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|c:\\users\\mrmys\\onedrive\\documents\\github\\gamerecreation\\supermariorecreation\\assets\\scripts\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Extension.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Extension.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Extension.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:26:35.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:26:04.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

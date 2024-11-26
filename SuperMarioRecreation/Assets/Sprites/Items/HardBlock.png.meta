@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1634eaf9afea22944a0da33e668b0f99
+guid: 55e51b2cbbf33eb4a8b75926896a6d9a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2282937615021032432
-    second: BrickBlockBrown_0
+      213: 5377898577935003047
+    second: HardBlock_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,9 +46,9 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
@@ -109,24 +109,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BrickBlockBrown_0
+      name: HardBlock_0
       rect:
         serializedVersion: 2
         x: 0
@@ -140,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f3c4b35aaf9eaf10800000000000000
-      internalID: 2282937615021032432
+      spriteID: 7ade4e7634222aa40800000000000000
+      internalID: 5377898577935003047
       vertices: []
       indices: 
       edges: []
@@ -149,7 +136,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -157,7 +144,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BrickBlockBrown_0: 2282937615021032432
+      HardBlock_0: 5377898577935003047
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
