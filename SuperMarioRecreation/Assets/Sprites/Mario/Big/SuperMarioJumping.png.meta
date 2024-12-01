@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7d0ad6eac3d21a44b9d194ec359c1b7d
+guid: a5dd2abd0876922418c405dd7e19ec3f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -684844661714520117
-    second: SuperMarioCrouching_0
+      213: 7821451941979973277
+    second: SuperMarioJumping_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SuperMarioCrouching_0
+      name: SuperMarioJumping_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 16
-        height: 22
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc7fe2c9861fe76f0800000000000000
-      internalID: -684844661714520117
+      spriteID: d966185f9116b8c60800000000000000
+      internalID: 7821451941979973277
       vertices: []
       indices: 
       edges: []
@@ -157,7 +157,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SuperMarioCrouching_0: -684844661714520117
+      SuperMarioJumping_0: 7821451941979973277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
