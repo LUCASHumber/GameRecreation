@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7d0ad6eac3d21a44b9d194ec359c1b7d
+guid: 77cb39addce6c934daf7f4202b8061d8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -684844661714520117
-    second: SuperMarioCrouching_0
+      213: -6418610071754153080
+    second: Mario_Big_Run1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +109,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SuperMarioCrouching_0
+      name: Mario_Big_Run1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 16
-        height: 22
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc7fe2c9861fe76f0800000000000000
-      internalID: -684844661714520117
+      spriteID: 8836951a5248ce6a0800000000000000
+      internalID: -6418610071754153080
       vertices: []
       indices: 
       edges: []
@@ -157,7 +144,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SuperMarioCrouching_0: -684844661714520117
+      Mario_Big_Run1_0: -6418610071754153080
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
