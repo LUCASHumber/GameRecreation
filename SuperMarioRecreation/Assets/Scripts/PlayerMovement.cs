@@ -22,14 +22,11 @@ public class PlayerMovement : MonoBehaviour
     public bool sliding => (inputAxis > 0f && velocity.x < 0f) || (inputAxis < 0f && velocity.x > 0f);
     public bool falling => velocity.y < 0f && !grounded;
 
-    AudioManager audioManager;
-
     private void Awake()
     {
         mainCamera = Camera.main;
         rb = GetComponent<Rigidbody2D>();
         capsuleCollider = GetComponent<Collider2D>();
-        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
     private void OnEnable()
@@ -108,7 +105,6 @@ public class PlayerMovement : MonoBehaviour
         // Perform jump
         if (Input.GetButtonDown("Jump"))
         {
-            audioManager.PlaySFX(audioManager.smallJump);
             Debug.Log("jumping");
             velocity.y = jumpForce;
             jumping = true;
@@ -135,7 +131,6 @@ public class PlayerMovement : MonoBehaviour
             {
                 velocity.y = jumpForce / 2f;
                 jumping = true;
-                audioManager.PlaySFX(audioManager.stomp);
             }
         }
         else if (collision.gameObject.layer != LayerMask.NameToLayer("PowerUp"))
@@ -144,8 +139,6 @@ public class PlayerMovement : MonoBehaviour
             if (transform.DotTest(collision.transform, Vector2.up))
             {
                 velocity.y = 0f;
-                //audioManager.PlaySFX(audioManager.powerUp);
-                //audioManager.PlaySFX(audioManager.breakBlock);
             }
         }
     }
