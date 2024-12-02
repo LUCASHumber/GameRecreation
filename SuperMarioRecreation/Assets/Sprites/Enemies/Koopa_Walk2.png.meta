@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d763e6efb6264f64f8c5fc197e31fbfb
+guid: b4ad047be2f14cc45b4601531e57d470
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5455614811541027558
-    second: KoopaTroopaGreen_0
+      213: -5196429570495614985
+    second: Koopa_Walk2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,24 +109,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: KoopaTroopaGreen_0
+      name: Koopa_Walk2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -140,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ea334914cc36bb40800000000000000
-      internalID: 5455614811541027558
+      spriteID: 7ffe54666d292e7b0800000000000000
+      internalID: -5196429570495614985
       vertices: []
       indices: 
       edges: []
@@ -157,7 +144,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      KoopaTroopaGreen_0: 5455614811541027558
+      Koopa_Walk2_0: -5196429570495614985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8a1773d6420308246aa15053e4f4fae1
+guid: 1737b14cba05e0549946785348237950
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6163734666813718744
-    second: SuperMarioSkidding_0
+      213: -1392921904094176232
+    second: Koopa_Walk1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +109,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SuperMarioSkidding_0
+      name: Koopa_Walk1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 16
-        height: 32
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 82fbec63af3067aa0800000000000000
-      internalID: -6163734666813718744
+      spriteID: 81c1b9288e85bace0800000000000000
+      internalID: -1392921904094176232
       vertices: []
       indices: 
       edges: []
@@ -157,7 +144,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SuperMarioSkidding_0: -6163734666813718744
+      Koopa_Walk1_0: -1392921904094176232
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

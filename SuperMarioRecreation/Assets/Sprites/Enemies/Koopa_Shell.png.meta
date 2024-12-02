@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2c2cf38c5ec49354b9ed8b12e1de5a82
+guid: a7636d59e90f9264e8fc36678930497e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4764180377315868275
-    second: MarioJumping_0
+      213: -383072003024143027
+    second: Koopa_Shell_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +109,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MarioJumping_0
+      name: Koopa_Shell_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 16
-        height: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d818334403b32edb0800000000000000
-      internalID: -4764180377315868275
+      spriteID: d4d3958fa0e0faaf0800000000000000
+      internalID: -383072003024143027
       vertices: []
       indices: 
       edges: []
@@ -157,7 +144,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      MarioJumping_0: -4764180377315868275
+      Koopa_Shell_0: -383072003024143027
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
