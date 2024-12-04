@@ -7,14 +7,19 @@ public class Player : MonoBehaviour
 {
     public CapsuleCollider2D capsuleCollider { get; private set; }
     public  PlayerMovement movement { get; private set; }
-    //public DeathAnimation deathAnimation { get; private set; }
+    public DeathAnimation deathAnimation { get; private set; }
 
     public PlayerSpriteAnimation smallAnimation;
     public PlayerSpriteAnimation bigAnimation;
     private PlayerSpriteAnimation activeAnimation;
 
+    public AudioClip deathClip;
+    public AudioClip growClip;  
+    public AudioClip shrinkClip; 
+    private AudioManager audioManager;
+
     public bool big => bigAnimation.enabled;
-    //public bool dead => deathAnimation.enabled;
+    public bool dead => deathAnimation.enabled;
     public bool starpower { get; private set; }
 
     // Start is called before the first frame update
@@ -33,30 +38,39 @@ public class Player : MonoBehaviour
     {
         capsuleCollider = GetComponent<CapsuleCollider2D>();
         movement = GetComponent<PlayerMovement>();
-        //deathAnimation = GetComponent<DeathAnimation>();
+        deathAnimation = GetComponent<DeathAnimation>();
         activeAnimation = GetComponent<PlayerSpriteAnimation>();
+
+        audioManager = FindObjectOfType<AudioManager>();
     }
 
     public void Hit() 
     {
-        //if (!dead && !starpower) {
-        //    if (big)
-        //    {
-        //        Shrink();
-        //    }
-        //    else {
-        //        Death();
-        //    }
-        //}
+        if (!dead && !starpower)
+        {
+            if (big)
+            {
+                Shrink();
+            }
+            else
+            {
+                Death();
+            }
+        }
     }
 
     public void Death()
     { 
         smallAnimation.enabled = false;
         bigAnimation.enabled = false;
-        //deathAnimation.enabled = false;
+        deathAnimation.enabled = true;
 
-        //GameManager.Instance.ResetLevel(3f);
+        if (audioManager != null && deathClip != null)
+        {
+            audioManager.PlayDeathSound(deathClip);
+        }
+
+        GameManager.Instance.ResetLevel(3f);
     }
 
     public void Grow() 
@@ -67,6 +81,11 @@ public class Player : MonoBehaviour
 
         capsuleCollider.size = new Vector2(1f, 2f);
         capsuleCollider.offset = new Vector2(0f, 0.5f);
+
+        if (audioManager != null && growClip != null)
+        {
+            audioManager.PlaySFX(growClip); // Play grow sound
+        }
 
         StartCoroutine(ScaleAnimation());
     }
@@ -79,6 +98,11 @@ public class Player : MonoBehaviour
 
         capsuleCollider.size = new Vector2(1f, 1f);
         capsuleCollider.offset = new Vector2(0f, 0f);
+
+        if (audioManager != null && shrinkClip != null)
+        {
+            audioManager.PlaySFX(shrinkClip); // Play shrink sound
+        }
 
         StartCoroutine(ScaleAnimation());
     }

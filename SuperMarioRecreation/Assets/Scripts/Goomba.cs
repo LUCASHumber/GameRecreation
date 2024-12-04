@@ -5,6 +5,19 @@ using UnityEngine;
 public class Goomba : MonoBehaviour
 {
     public Sprite flatSprite;
+    public AudioClip stompSound; 
+    private AudioSource audioSource;
+
+
+    private void Awake()
+    {
+        // Get or add AudioSource component
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -35,6 +48,8 @@ public class Goomba : MonoBehaviour
 
     private void Flatten()
     {
+        PlaySound(stompSound); 
+
         GetComponent<Collider2D>().enabled = false;
         GetComponent<Enemy>().enabled = false;
         GetComponent<AnimateSprite>().enabled = false;
@@ -47,6 +62,14 @@ public class Goomba : MonoBehaviour
         GetComponent<AnimateSprite>().enabled = false;
         GetComponent<DeathAnimation>().enabled = true;
         Destroy(gameObject, 3f);
+    }
+
+    private void PlaySound(AudioClip clip)
+    {
+        if (clip != null)
+        {
+            audioSource.PlayOneShot(clip);
+        }
     }
 
 }

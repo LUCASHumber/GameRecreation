@@ -22,11 +22,16 @@ public class PlayerMovement : MonoBehaviour
     public bool sliding => (inputAxis > 0f && velocity.x < 0f) || (inputAxis < 0f && velocity.x > 0f);
     public bool falling => velocity.y < 0f && !grounded;
 
+    private AudioManager audioManager;
+    public AudioClip jumpSmallClip;
+    public AudioClip jumpBigClip;
+
     private void Awake()
     {
         mainCamera = Camera.main;
         rb = GetComponent<Rigidbody2D>();
         capsuleCollider = GetComponent<Collider2D>();
+        audioManager = FindObjectOfType<AudioManager>();
     }
 
     private void OnEnable()
@@ -108,6 +113,16 @@ public class PlayerMovement : MonoBehaviour
             Debug.Log("jumping");
             velocity.y = jumpForce;
             jumping = true;
+
+            if (audioManager != null)
+            {
+                Player player = GetComponent<Player>();
+                if (player != null)
+                {
+                    AudioClip jumpClip = player.big ? jumpBigClip : jumpSmallClip;
+                    audioManager.PlaySFX(jumpClip);
+                }
+            }
         }
     }
 
