@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1426176904722934357}
   - component: {fileID: 7342748158765004366}
   - component: {fileID: 4303960949074418254}
+  - component: {fileID: -1152369794747759923}
   m_Layer: 0
   m_Name: BrickBlockBrown
   m_TagString: Untagged
@@ -75,7 +76,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: 21300000, guid: 1634eaf9afea22944a0da33e668b0f99, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -133,3 +134,20 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &-1152369794747759923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4403704337778263687}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0551ac4597d3be74b934889f33c1ede3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item: {fileID: 0}
+  emptyBlock: {fileID: 21300000, guid: 1dc7fe1fd29a0ac4db8a1295973f826a, type: 3}
+  maxHits: -1
+  itemSound: {fileID: 8300000, guid: ba1c928e90e36af46b2e952a9c21a469, type: 3}
+  emptySound: {fileID: 8300000, guid: 8c26876a84cc8e84196de3bca6b30e16, type: 3}

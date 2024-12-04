@@ -3,48 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-<<<<<<< HEAD
-=======
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\koopa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\koopa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|c:\\users\\mrmys\\onedrive\\documents\\github\\gamerecreation\\supermariorecreation\\assets\\scripts\\playerspriteanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerspriteanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\sidescrollingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sidescrollingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\animatesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animatesprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\flagpole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flagpole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 2f09664e05460ce9421f0a0b8449878d5ae34dbc
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|c:\\users\\mrmys\\onedrive\\documents\\github\\gamerecreation\\supermariorecreation\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\blockhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|c:\\users\\mrmys\\onedrive\\documents\\github\\gamerecreation\\supermariorecreation\\assets\\scripts\\deathbarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathbarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|c:\\users\\mrmys\\onedrive\\documents\\github\\gamerecreation\\supermariorecreation\\assets\\scripts\\koopa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\koopa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|c:\\users\\mrmys\\onedrive\\documents\\github\\gamerecreation\\supermariorecreation\\assets\\scripts\\goomba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goomba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\deathanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\coinblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\blockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\deathanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\playerspriteanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,12 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-=======
->>>>>>> 2f09664e05460ce9421f0a0b8449878d5ae34dbc
-      "AbsoluteMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\assets\\scripts\\sidescrollingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F427D7-3BA2-3718-8E77-627CD3A6CDD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sidescrollingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,11 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 10,
-=======
-          "SelectedChildIndex": 8,
->>>>>>> 2f09664e05460ce9421f0a0b8449878d5ae34dbc
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -88,49 +94,162 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 3,
-              "Title": "Koopa.cs",
-              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Koopa.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Koopa.cs",
-              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Koopa.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Koopa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAcAAAAAAAAAA==",
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAxwDIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T21:47:34.947Z",
+              "WhenOpened": "2024-12-03T22:59:49.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "DeathBarrier.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\DeathBarrier.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathBarrier.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\DeathBarrier.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathBarrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:39:32.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Goomba.cs",
               "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Goomba.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Goomba.cs",
               "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Goomba.cs",
               "RelativeToolTip": "Assets\\Scripts\\Goomba.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T21:46:05.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwHwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:26:04.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAJ0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:09:35.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlockHit.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\BlockHit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockHit.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\BlockHit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlockHit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:00:38.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
               "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Enemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAA7wEYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T17:44:43.799Z"
+              "WhenOpened": "2024-12-01T17:44:43.799Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-=======
+              "DocumentIndex": 0,
+              "Title": "Koopa.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Koopa.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Koopa.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Koopa.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Koopa.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswHQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:47:34.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
->>>>>>> 2f09664e05460ce9421f0a0b8449878d5ae34dbc
+              "Title": "FlagPole.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\FlagPole.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlagPole.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\FlagPole.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlagPole.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:05:01.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SideScrollingCamera.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\SideScrollingCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SideScrollingCamera.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\SideScrollingCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SideScrollingCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:10:00.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAA6wFYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:32:19.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerSpriteAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PlayerSpriteAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSpriteAnimation.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PlayerSpriteAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerSpriteAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:58:08.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "AnimateSprite.cs",
               "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\AnimateSprite.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AnimateSprite.cs",
@@ -142,81 +261,43 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 7,
-=======
-              "DocumentIndex": 1,
->>>>>>> 2f09664e05460ce9421f0a0b8449878d5ae34dbc
-              "Title": "PlayerSpriteAnimation.cs",
-              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PlayerSpriteAnimation.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSpriteAnimation.cs",
-              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PlayerSpriteAnimation.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerSpriteAnimation.cs",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAYAAAAAAAAAA==",
->>>>>>> 2f09664e05460ce9421f0a0b8449878d5ae34dbc
+              "DocumentIndex": 12,
+              "Title": "PowerUp.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PowerUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PowerUp.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PowerUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PowerUp.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:58:08.83Z"
+              "WhenOpened": "2024-12-03T17:57:29.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "BlockItem.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\BlockItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BlockItem.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\BlockItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BlockItem.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T23:32:19.347Z"
+              "WhenOpened": "2024-12-03T18:19:42.085Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 1,
-=======
-              "DocumentIndex": 4,
->>>>>>> 2f09664e05460ce9421f0a0b8449878d5ae34dbc
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "CoinBlock.cs",
+              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\CoinBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinBlock.cs",
+              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\CoinBlock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinBlock.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T23:09:35.216Z"
+              "WhenOpened": "2024-12-03T22:18:57.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SideScrollingCamera.cs",
-              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\SideScrollingCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SideScrollingCamera.cs",
-              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\SideScrollingCamera.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SideScrollingCamera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T01:10:00.871Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 0,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T22:26:04.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "DeathAnimation.cs",
               "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\DeathAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DeathAnimation.cs",
@@ -228,10 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-=======
-              "DocumentIndex": 5,
->>>>>>> 2f09664e05460ce9421f0a0b8449878d5ae34dbc
+              "DocumentIndex": 17,
               "Title": "Extension.cs",
               "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\Extension.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Extension.cs",
@@ -240,22 +318,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T00:26:35.867Z"
-<<<<<<< HEAD
-=======
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\mrmys\\OneDrive\\Documents\\GitHub\\GameRecreation\\SuperMarioRecreation\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAxwB8AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T22:26:04.739Z",
-              "EditorCaption": ""
->>>>>>> 2f09664e05460ce9421f0a0b8449878d5ae34dbc
             }
           ]
         }

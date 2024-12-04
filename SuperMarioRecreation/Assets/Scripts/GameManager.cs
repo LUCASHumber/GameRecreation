@@ -48,7 +48,7 @@ public class GameManager : MonoBehaviour
         lives = 3;
         coins = 0;
 
-       
+        LoadLevel(1, 1);
     }
 
   
@@ -56,6 +56,20 @@ public class GameManager : MonoBehaviour
     {
         NewGame();
     }
+
+    public void LoadLevel(int world, int stage)
+    {
+        this.world = world;
+        this.stage = stage;
+
+        SceneManager.LoadScene($"{world}-{stage}");
+    }
+
+    public void NextLevel()
+    {
+        LoadLevel(world, stage + 1);
+    }
+
 
 
     public void ResetLevel(float delay)
@@ -70,7 +84,7 @@ public class GameManager : MonoBehaviour
 
         if (lives > 0)
         {
-            NewGame();
+            LoadLevel(world, stage);
         }
         else
         {

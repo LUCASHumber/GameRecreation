@@ -6,9 +6,21 @@ public class Koopa : MonoBehaviour
 {
     public Sprite shellSprite;
     public float shellSpeed = 12f;
+    public AudioClip stompSound; 
+    private AudioSource audioSource; 
 
     private bool shelled;
     private bool pushed;
+
+    private void Awake()
+    {
+        // Get or add AudioSource component
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -58,6 +70,8 @@ public class Koopa : MonoBehaviour
 
     private void EnterShell()
     {
+        PlaySound(stompSound); 
+
         shelled = true;
 
         GetComponent<SpriteRenderer>().sprite = shellSprite;
@@ -91,6 +105,14 @@ public class Koopa : MonoBehaviour
         if (pushed)
         {
             Destroy(gameObject);
+        }
+    }
+
+    private void PlaySound(AudioClip clip)
+    {
+        if (clip != null)
+        {
+            audioSource.PlayOneShot(clip);
         }
     }
 }
