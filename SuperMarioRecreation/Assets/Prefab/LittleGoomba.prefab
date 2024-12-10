@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 1157014227109728569}
   - component: {fileID: 868081179766677972}
   - component: {fileID: 6615549836033624011}
-  - component: {fileID: 2234983610896157776}
   - component: {fileID: -3672986104591819295}
+  - component: {fileID: 2234983610896157776}
   - component: {fileID: 5404343248050958019}
   m_Layer: 6
   m_Name: LittleGoomba
@@ -80,7 +80,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: b287fd6d493c16c43a22f80f40599a62, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -169,6 +169,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   flatSprite: {fileID: 21300000, guid: 1c019ec8ba7096d419790c02b4880bde, type: 3}
   stompSound: {fileID: 8300000, guid: 8d2747688035e904bab39780f65f4840, type: 3}
+--- !u!114 &-3672986104591819295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7127281450280089072}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2777e95985ff87148a3e6a8032b2192d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
+  direction: {x: -1, y: 0}
 --- !u!114 &2234983610896157776
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -185,20 +199,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b287fd6d493c16c43a22f80f40599a62, type: 3}
   - {fileID: 21300000, guid: 81ee057820061c24a82beb7435817022, type: 3}
   framerate: 0.25
---- !u!114 &-3672986104591819295
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7127281450280089072}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2777e95985ff87148a3e6a8032b2192d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 2
-  direction: {x: -1, y: 0}
 --- !u!114 &5404343248050958019
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -206,7 +206,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7127281450280089072}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7a4c510cdcc6b2d4eafa496e13d5d284, type: 3}
   m_Name: 

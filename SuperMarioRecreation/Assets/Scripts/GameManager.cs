@@ -14,9 +14,14 @@ public class GameManager : MonoBehaviour
     public int lives { get; private set; } = 3;
     public int coins { get; private set; } = 0;
 
+    [Header("Audio Settings")]
+    [SerializeField] private AudioClip lifeAddedSound;
+    private AudioSource audioSource;
 
     private void Awake()
     {
+        audioSource = gameObject.AddComponent<AudioSource>();
+
         if (Instance != null)
         {
             DestroyImmediate(gameObject);
@@ -26,6 +31,7 @@ public class GameManager : MonoBehaviour
             Instance = this;
             DontDestroyOnLoad(gameObject);
         }
+
     }
 
     private void OnDestroy()
@@ -54,7 +60,16 @@ public class GameManager : MonoBehaviour
   
     public void GameOver()
     {
-        NewGame();
+        SceneManager.LoadScene("GameOver");
+
+        // Start coroutine to return to the "Start" scene after 5 seconds
+        StartCoroutine(ReturnToStartSceneAfterDelay(4f));
+    }
+
+    private IEnumerator ReturnToStartSceneAfterDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        SceneManager.LoadScene("StartScreen");
     }
 
     public void LoadLevel(int world, int stage)
@@ -106,6 +121,15 @@ public class GameManager : MonoBehaviour
     public void AddLife()
     {
         lives++;
+        PlayLifeAddedSound();
+    }
+
+    private void PlayLifeAddedSound()
+    {
+        if (lifeAddedSound != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(lifeAddedSound);
+        }
     }
 
     // Update is called once per frame

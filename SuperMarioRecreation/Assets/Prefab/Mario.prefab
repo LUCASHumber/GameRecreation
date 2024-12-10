@@ -118,7 +118,7 @@ MonoBehaviour:
   bigAnimation: {fileID: 6610132512138629340}
   deathClip: {fileID: 8300000, guid: 6af4fc1c5a0d17944a23937b62be1187, type: 3}
   growClip: {fileID: 8300000, guid: cdf32e6930c51484f842e2e35fedd98a, type: 3}
-  shrinkClip: {fileID: 0}
+  shrinkClip: {fileID: 8300000, guid: 1be8367b7c8f2de4981661da15c25bdc, type: 3}
 --- !u!114 &3132493841032474240
 MonoBehaviour:
   m_ObjectHideFlags: 0
